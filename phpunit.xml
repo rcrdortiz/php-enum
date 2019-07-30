@@ -23,9 +23,5 @@
             <directory>src</directory>
         </whitelist>
     </filter>
-
-    <logging>
-        <log type="junit" target="junit-unit.xml"/>
-    </logging>
 </phpunit>
 

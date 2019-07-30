@@ -1,12 +1,12 @@
 <?php
 
-namespace Perseo\Platform\Enum;
+namespace Rcrdortiz\Enum;
 
-use Perseo\Platform\Enum\Exception\IllegalArgumentException;
-use Perseo\Platform\Enum\Exception\InvalidEnumConstantDefaultValue;
-use Perseo\Platform\Test\PerseoTest;
+use Rcrdortiz\Enum\Exception\IllegalArgumentException;
+use Rcrdortiz\Enum\Exception\InvalidEnumConstantDefaultValue;
+use PHPUnit\Framework\TestCase;
 
-class EnumTest extends PerseoTest
+class EnumTest extends TestCase
 {
     public function testStandard()
     {
