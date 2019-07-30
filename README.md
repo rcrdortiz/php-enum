@@ -1,2 +1,2 @@
 # php-enum
-Enum for PHP that doesn't rely on SplEnum
+Enum for PHP that doesnt rely on SplEnum
