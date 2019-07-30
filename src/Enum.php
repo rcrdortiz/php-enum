@@ -1,9 +1,9 @@
 <?php
 
-namespace Perseo\Platform\Enum;
+namespace Rcrdortiz\Enum;
 
-use Perseo\Platform\Enum\Exception\IllegalArgumentException;
-use Perseo\Platform\Enum\Exception\InvalidEnumConstantDefaultValue;
+use Rcrdortiz\Enum\Exception\IllegalArgumentException;
+use Rcrdortiz\Enum\Exception\InvalidEnumConstantDefaultValue;
 use ReflectionClass;
 use ReflectionException;
 

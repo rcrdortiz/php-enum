@@ -1,6 +1,6 @@
 <?php
 
-namespace Perseo\Platform\Enum\Exception;
+namespace Rcrdortiz\Enum\Exception;
 
 use Exception;
 
